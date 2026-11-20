@@ -1,5 +1,5 @@
 # Review notes
 
-Version 0.1.0. Source frames 1–6.
+Version 0.2.0. Source frames 1–6.
 
-Reading A based on visual checks of all six fixed Wellcome-source reference faces, with separately invoked local Apple Vision for extraction. Adjacent text was scoped out by the printed divider. Page, paragraph, title/byline, case sequence, historical wording, original omissions and ellipses retained. No article-internal omissions. Printing line-wrap hyphenation, running labels, and font or spacing details were simplified. This is the sealed first reading.
+All six fixed source faces were read independently by a second Codex agent with image-only input and no A transcription or OCR, then all disagreements and high-risk points were adjudicated against the fixed original scans. The source punctuation after “menstrual period” on p. 213 was restored. The original section heading, case order, paragraph and page divisions, omissions and source wording remain. Line-wrap hyphenation and running labels are simplified. No editorial omission within the six-face article. AI image collation.

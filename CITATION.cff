@@ -3,7 +3,7 @@
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
   "title": "北安普敦慢性精神疾病復原四案（1888） / Recovery from Chronic Insanity: Four Cases — Transcription Dataset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
     {
