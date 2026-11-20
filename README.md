@@ -1,2 +1,25 @@
-# strahan-four-recoveries-1888
+# 北安普敦慢性精神疾病復原四案（1888） / Recovery from Chronic Insanity: Four Cases — Transcription Dataset
+
+北安普敦郡立精神病院的 S. A. K. Strahan 於 1888 年發表四則長期住院病人的復原紀錄，記下病例經過及院方對復原的判斷。
+
 In July 1888, S. A. K. Strahan of the Northampton County Asylum reported four recoveries among long-stay patients. The individual accounts describe their time in care and the physician’s account of their recovery.
+
+## Source and scope
+
+Wellcome Library, via Internet Archive, https://archive.org/details/s5912id1397905, Source frames 1–6. Original publication: Journal of Mental Science 34(146), July 1888, pp. 208–213. The complete July 1888 article on pp. 208–213.
+
+[Digitized source](https://archive.org/details/s5912id1397905/page/208/mode/1up) · [Scan inventory](https://archive.org/download/s5912id1397905/s5912id1397905_page_numbers.json) · [Source copy and machine text](https://archive.org/details/s5912id1397905) · [Original article DOI](https://doi.org/10.1192/S0368315X0022793X) · [Source rights statement](https://creativecommons.org/publicdomain/mark/1.0/) · [Source item rights metadata](https://archive.org/metadata/s5912id1397905)
+## Files
+
+- `transcription.txt` retains line and frame markers. Tabs mark table cells. 
+- `transcription.json` identifies each frame and text or table unit. A null printed page means no printed page number was recorded. The source links identify the corresponding scan.
+- `transcription.tei.xml` maps the same frame text and table cells into TEI P5.
+- `review-notes.md` lists review coverage and reading decisions.
+## Transcription and review
+
+AI-assisted reading used fixed source scans. Published text preserves printed spellings and historical terminology. Spacing may be normalized. A square (□) indicates an unresolved character. See the notes for editorial omissions and uncertain readings.
+
+Version 0.1.0. This dataset has no measured error rate or expert proofreading.
+## Rights and citation
+
+The original nineteenth-century printed text is in the public domain in the United States. Source scans are linked for verification. CC BY 4.0 applies to new editorial material and encoding wherever copyright applies. Credit the historical source and the transcription by Chu, Chen-Yu (https://orcid.org/0009-0003-9738-6914). For a reading correction, cite the scan number and the relevant text in a GitHub issue.

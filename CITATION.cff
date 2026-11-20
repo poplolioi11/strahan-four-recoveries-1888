@@ -1,0 +1,28 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "北安普敦慢性精神疾病復原四案（1888） / Recovery from Chronic Insanity: Four Cases — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/strahan-four-recoveries-1888",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "精神醫學史",
+    "history of psychiatry",
+    "北安普敦",
+    "個別病例",
+    "長期住院",
+    "Northampton County Asylum",
+    "S. A. K. Strahan",
+    "case reports",
+    "recovery"
+  ]
+}
